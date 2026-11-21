@@ -125,6 +125,11 @@ hash = "def0429c61fc8e6b8f4cc3a8f61d491c99b7682d34be008f213659e0982a74db"
 metafile = true
 
 [[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "23eebcb5df5144c2e9eac85d17d24241558b1241a7b1843ecf851455f9feb5da"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "1ed7a6439d9c3cd9bc8e7db6a4362eb710de0f4da90b619f883e99f5765e96c0"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Extra Origins"
+filename = "extraorigins-1.21.1-r3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XWEESDPe/versions/JLZ0Ymo7/extraorigins-1.21.1-r3.jar"
+hash-format = "sha512"
+hash = "b2c21559751bbd266106b3665102bb5fdfa4861690150382bbefdffca7a9730074c3bc6d9b0854d26361ad8494e424ac9cedffdbe9dd5efcf30de9173acf3604"
+
+[update]
+[update.modrinth]
+mod-id = "XWEESDPe"
+version = "JLZ0Ymo7"
