@@ -1,0 +1,13 @@
+name = "Arcwise - Puffish Skill Tree"
+filename = "arcwise-1.21-1.21.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8Uddo3yY/versions/ozDG3dvw/arcwise-1.21-1.21.1-forge.jar"
+hash-format = "sha512"
+hash = "e4f7878fbbad5341a8dfcc1210e931c818d407e883402f4f3a0accf7857302c33224c3b2923b853e9c3a830e9e3d6268dc561671b0d4d12f53d551b0593c23f9"
+
+[update]
+[update.modrinth]
+mod-id = "8Uddo3yY"
+version = "ozDG3dvw"

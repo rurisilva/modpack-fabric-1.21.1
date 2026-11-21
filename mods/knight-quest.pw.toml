@@ -1,0 +1,13 @@
+name = "Knight Quest"
+filename = "knightquest-fabric-1.21.1-1.9.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/ytzxIAIs/knightquest-fabric-1.21.1-1.9.0.jar"
+hash-format = "sha512"
+hash = "410eba92a96f4221b04eed14d02b4bfee74feefe59be0baded83c0252eefb6ef8a328eae596ad93f99c42d5d478763a61fa4e4f3464cb99372c42092aad1ca3a"
+
+[update]
+[update.modrinth]
+mod-id = "VEOQ4Jz4"
+version = "ytzxIAIs"

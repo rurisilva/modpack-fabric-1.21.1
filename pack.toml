@@ -1,0 +1,13 @@
+name = "Servidor Mods"
+author = "Lourdes"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "be19083d1002f0266859019020336fcc645e96e7ab87f70f3e821a5f76e38863"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.1"

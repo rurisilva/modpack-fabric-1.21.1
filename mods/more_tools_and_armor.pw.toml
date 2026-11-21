@@ -1,0 +1,13 @@
+name = "More Tools and Armor"
+filename = "more_tools_and_armor-11.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DCqzpQbB/versions/WpMASVYe/more_tools_and_armor-11.1.jar"
+hash-format = "sha512"
+hash = "3676cb15dd8da831fd280e41de1e2fc5f4b9a6d81771f20aaa0e7952ab2386ce857611c3619271fdeffe98bd638220d047ad6d9e9cf6a5470969a0a502f47ed2"
+
+[update]
+[update.modrinth]
+mod-id = "DCqzpQbB"
+version = "WpMASVYe"
