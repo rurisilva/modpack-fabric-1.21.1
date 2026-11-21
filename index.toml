@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "dfc2b5e0255f98ff2c06d4a10c9d83b9af47a43616357f8b360dc0f2089f3e48"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "97befad2275e44c557794fbd321b154510279ce7906426607288062e096df86d"
 metafile = true
@@ -22,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "a4532661356a586bb05471c8a5b4615bbf25c790d44a22f4e7f5602503b0fbba"
+hash = "f222973684e5e1569ced7b1af6d91fdfd41e42262e8ad86cfbc6ab23e68fd8e7"
 metafile = true
 
 [[files]]
@@ -117,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "ab8390876f58e3d725fe88f3a27f83fc0513466e482f3593da2d3465c0115b1c"
+hash = "08e65dcd2ee3339759c800f54b4b2c1dcff4c8d915a68a42530c2624be20ea07"
 metafile = true
 
 [[files]]
